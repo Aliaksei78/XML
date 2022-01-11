@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Structure_of_Bug_Report>
-	<ID/>
-	<Summary/>
-	<Description> 
-				<Reprodused_on/>
-				<Requirement/>
-				<Actual_Result/>
-				<Expected_Result/>	
-	</Description>
-	<Steps_to_reproduce/>
-	<Severity/>
-	<Priority/>
-	<Reproducibility/>
-	<Symptom/>
-	<Workaround/>
-	<Comments/>
-	<Attachments/>
-	<Status/>
-</Structure_of_Bug_Report>
+<skills>
+	<GitBash/>
+	<GitHub/>
+	<Postman/>
+	<SQL/>
+	<DevTools/>
+	<Android_Studio/>
+	<Charles/>
+	<.../>
+</skills>
